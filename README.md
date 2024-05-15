@@ -13,4 +13,4 @@ Projektu līdzfinansē REACT-EU finansējums pandēmijas krīzes seku mazināša
 [![DIGITEKA](digiteka.jpg)](https://www.ozolzile.lu.lv/en/noderigi/digiteka/)
 
 
-[Dataset for Virtual Assistant Digne](https://github.com/tilde-nlp/ca-bot-data/) © 2023 by [Tilde](https://tilde.ai) is licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+[Dataset for Virtual Assistant Digne](https://www.lumic.lu.lv/noderigi/digiteka/) © 2023 by [Tilde](https://tilde.ai) is licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
